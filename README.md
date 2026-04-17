@@ -5,11 +5,11 @@ A cross-browser solution that improves readability and navigation in Discourse-p
 ## Installation 
 
 ### Step 1: Install the Tampermonkey official extension for your browser:
-- [Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
-- [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
-- [Edge](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd)
-- [Safari](https://apps.apple.com/us/app/tampermonkey/id1482490089)
-- [Opera](https://addons.opera.com/en/extensions/details/tampermonkey-beta/)
+- [for Chrome click here](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+- [for Firefox click here](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
+- [for Edge click here](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd)
+- [for Safari click here](https://apps.apple.com/us/app/tampermonkey/id1482490089)
+- [for Opera click here](https://addons.opera.com/en/extensions/details/tampermonkey-beta/)
 
 ### Step 2: Install the Userscript
 1. Click on the Tampermonkey icon in your browser toolbar
