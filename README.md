@@ -2,12 +2,7 @@
 
 A cross-browser solution that improves readability and navigation in Discourse-powered forums by automatically highlighting posts from moderators and staff members with a distinctive dark red background and white text.
 
-## Installation Options
-OPTION 1: Userscript (via Tampermonkey/Greasemonkey for Chrome, Firefox, Safari, Opera, etc.)
-OPTION 2: Browser Extension (Chrome)
-
-
-## OPTION 1:  Installation via Userscript (using Tampermonkey extension)
+## Installation 
 
 ### Step 1: Install Tampermonkey
 Install the Tampermonkey extension for your browser:
