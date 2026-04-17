@@ -4,8 +4,7 @@ A cross-browser solution that improves readability and navigation in Discourse-p
 
 ## Installation 
 
-### Step 1: Install Tampermonkey
-Install the Tampermonkey extension for your browser:
+### Step 1: Install the Tampermonkey official extension for your browser:
 - [Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
 - [Edge](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd)
