@@ -1,8 +1,10 @@
 # moderator-highlighter
 
-A cross-browser solution that improves readability and navigation in Discourse-powered forums by automatically highlighting posts from moderators and staff members with a distinctive dark red background and white text.
+A cross-browser solution that improves readability in Discourse-powered forums by automatically highlighting posts from moderators and staff members with a distinctive dark red background and white text. How it's done? Using a userscript!
 
 ## Installation 
+
+**What is this?** What is a userscript? A userscript is a small piece of code that adds features to websites. However, browsers don't run userscripts on their own - you need a special extension called Tampermonkey to make them work.
 
 ### Step 1: Install the Tampermonkey official extension for your browser:
 - [for Chrome click here](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
