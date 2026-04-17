@@ -4,7 +4,7 @@ A cross-browser solution that improves readability in Discourse-powered forums b
 
 ## Installation 
 
-**What is this?** What is a userscript? A userscript is a small piece of code that adds features to websites. However, browsers don't run userscripts on their own - you need a special extension called Tampermonkey to make them work.
+**What is this?** What is a userscript? A userscript is a small piece of code that adds features to websites. However, browsers don't run userscripts on their own - you need first an official browser extension like Tampermonkey to make them work.
 
 ### Step 1: Install the Tampermonkey official extension for your browser:
 - [for Chrome click here](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
