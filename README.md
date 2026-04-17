@@ -15,7 +15,7 @@ A cross-browser solution that improves readability and navigation in Discourse-p
 1. Click on the Tampermonkey icon in your browser toolbar
 2. Select "Create a new script"
 3. Delete any placeholder code
-4. Copy and paste the following script below (the header too), then Save the script (File → Save or Ctrl+S / Cmd+S)
+4. Copy and paste the following script below (the header too), then Save the script (File → Save or Ctrl+S / Cmd+S) then navigate to your forum and that's it, you should see the staff posts on dark red background and white text!
 
 ```javascript
 // ==UserScript==
